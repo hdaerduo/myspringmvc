@@ -16,8 +16,9 @@ http://www.linuxidc.com/Linux/2017-01/139345.htm
 
 --++Docker
 Docker镜像加速：
-墙内访问Docker Hub的速度太慢，daocloud mirror在国内做得是很不错的。
-http://blog.chinaunix.net/uid-26168435-id-5736568.html
+墙内访问Docker Hub的速度太慢，使用阿里云加速
+https://cr.console.aliyun.com/?spm=5176.100239.blogcont29941.13.gDdHkf#/accelerator
+http://blog.csdn.net/bwlab/article/details/50542261
 
 --++Linux 常用命令：
 
