@@ -1,3 +1,4 @@
+
 # myspringmvc
 
 refer: http://blog.csdn.net/gebitan505/article/details/44455235/
@@ -24,6 +25,7 @@ http://blog.csdn.net/bwlab/article/details/50542261
 
 sudo docker run --name test-mysql -p 3306:3306 -e MYSQL_ROOT_PASSWORD=test123456 -d mysql
 
+之后：
 sudo docker run test-mysql
 
 ###MySQL
