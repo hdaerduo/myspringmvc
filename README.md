@@ -22,7 +22,14 @@ http://blog.csdn.net/bwlab/article/details/50542261
 
 *启动Mysql docker
 
-sudo docker run --name test -p 3306:3306 -e MYSQL_ROOT_PASSWORD=test123456 -d mysql
+sudo docker run --name test-mysql -p 3306:3306 -e MYSQL_ROOT_PASSWORD=test123456 -d mysql
+
+sudo docker run test-mysql
+
+###MySQL
+
+客户端管理工具
+http://www.codesec.net/view/173285.html
 
 ###Linux 常用命令：
 
