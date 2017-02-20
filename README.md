@@ -8,6 +8,7 @@ refer: http://blog.csdn.net/gebitan505/article/details/44455235/
 ###Maven
 The maven central repository is slow, we can use the Aly yun mirror to speed up
 
+###MyBatis 
 ##CentOS setup:
 
 ###Network:
